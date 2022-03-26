@@ -1,0 +1,24 @@
+.container{
+    width: 50px;
+    height: 50px;
+
+    background-color: red;
+
+    border-style: solid;
+    border-color: green;
+    border-width: 2px;
+
+    margin-top: 100px;
+}
+.container2{
+    width: 50%;
+    height: 50vh;
+
+    background-color: #000;
+
+    border-style: dashed;
+    border-color: red;
+    border-width: 10px;
+
+    margin: 100px 100px;
+}

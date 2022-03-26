@@ -1,0 +1,25 @@
+.container{
+    width: 100%;
+    height: 250px;
+
+    display: flex;
+    justify-content: center;
+
+    background-color: rgb( 119, 71, 196);
+}
+.container2{
+    width: 250px;
+    height: 100%;
+
+    border-style: solid;
+    border-color: red;
+    border-width: 20px;
+
+    background-color: #CC1ADA;
+}
+.container3{
+    width: 30%;
+    height: 88%;
+
+    background-color: #1ADA9C;
+}
